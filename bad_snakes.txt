@@ -1,0 +1,3 @@
+## This direction change causes the snake to behave badly. naughty snakey
+## Marge notes that if it moves right away, it doesn't seem to work, but if
+## it waits then it works. What indexing error would cause this? 
